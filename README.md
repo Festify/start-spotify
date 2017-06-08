@@ -1,4 +1,6 @@
 # start-spotify
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Festify/start-spotify.svg)](https://greenkeeper.io/)
 A node script that launches the Spotify desktop application
 
 ## Usage
