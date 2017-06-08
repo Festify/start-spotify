@@ -1,0 +1,24 @@
+{
+  "name": "start-spotify",
+  "version": "0.1.0",
+  "description": "Launch the Spotify desktop application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Festify/start-spotify.git"
+  },
+  "keywords": [
+    "spotify",
+    "start",
+    "launch"
+  ],
+  "author": "Festify Dev Team <mail+start-spotify@festify.rocks>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Festify/start-spotify/issues"
+  },
+  "homepage": "https://github.com/Festify/start-spotify#readme",
+  "dependencies": {
+    "node-osascript": "^2.0.0"
+  }
+}
