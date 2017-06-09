@@ -5,7 +5,7 @@ A node script that launches the Spotify desktop application
 ```js
 const startSpotify = require('start-spotify');
 
-start()
+startSpotify()
     .then(() => console.log("Spotify is running!"))
     .catch(err => console.log("Oh, no!"));
 ```
