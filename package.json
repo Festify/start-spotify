@@ -1,6 +1,6 @@
 {
   "name": "start-spotify",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Launch the Spotify desktop application",
   "main": "index.js",
   "repository": {
